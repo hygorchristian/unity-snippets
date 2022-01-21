@@ -3,8 +3,10 @@
 
 ### Omni Sharp Formatter for VS Code
 
+
+`omnisharp.json`
+
 ```json
-// omnisharp.json
 {
     "FormattingOptions": {
         "NewLinesForBracesInLambdaExpressionBody": false,
